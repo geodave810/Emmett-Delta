@@ -9,3 +9,7 @@ See the HB_Bracket & PS_Brackets folder fot the bracket to hold the Heat Bed & P
 https://github.com/geodave810/Emmett-Delta/tree/master/HB_Brackets
 
 https://github.com/geodave810/Emmett-Delta/tree/master/PS_Brackets
+
+See the following folder for parts that mount to the Vertical 1/2" EMT & Idler bracket
+
+https://github.com/geodave810/Emmett-Delta/tree/master/EMT12_Horizontal_EMT12_Vertical
