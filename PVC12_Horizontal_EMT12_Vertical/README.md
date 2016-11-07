@@ -7,4 +7,5 @@ where the build plate connects to Heat Bed Bracket.
 
 See the HB_Bracket & PS_Brackets folder fot the bracket to hold the Heat Bed & Power Supply
 https://github.com/geodave810/Emmett-Delta/tree/master/HB_Brackets
+
 https://github.com/geodave810/Emmett-Delta/tree/master/PS_Brackets
