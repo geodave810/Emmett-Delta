@@ -2,7 +2,7 @@ This is what I am using for the Filament holder with this build.
 
 The original design for this filament holder is here: http://www.thingiverse.com/thing:508896
 
-Here are the references to the modifications I did to this design.
+Here are the references to the modifications I did to this design which include openscad sources.
 
 Customizable Spool Holder Base
 http://www.thingiverse.com/thing:1751711
