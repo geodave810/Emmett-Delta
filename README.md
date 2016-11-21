@@ -14,7 +14,8 @@ There is a BOM spreadsheet file, but it needs to be updated some.
 
 Option 1:
 3/4" EMT Horizontals and V-Slot 2060 extrusions for the Verticals
-You can also find his Cobalt Griffonary's nice build log of this configuration here: 
+You can also find his Cobalt Griffonary's nice build log of this configuration here:
+
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-1.html
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-2.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-3.html 
