@@ -13,16 +13,17 @@ all these files together on Github.  Each Option will have its own file folder.
 There is a BOM spreadsheet file, but it needs to be updated some.
 
 Option 1:
-3/4" EMT Horizontals and V-Slot 2060 extrusions for the Verticals
+3/4" EMT Horizontals and V-Slot 2060 extrusions for the Verticals.
+(This is what I originally set out to build, but changed to the Option 3 build)
+
+Option 2:
+3/4" EMT Horizontals & 4x 1/2" EMT Verticals on each column.
 You can also find his Cobalt Griffonary's nice build log of this configuration here:
 
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-1.html
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-2.html
-https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-3.html 
+https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-3.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-4.html
-
-Option 2:
-3/4" EMT Horizontals & 4x 1/2" EMT Verticals on each column.
 
 Option 3:
 1/2" EMT Horizontals & 4x 1/2" EMT Verticals on each column.
