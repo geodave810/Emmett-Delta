@@ -27,11 +27,11 @@ https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-4.html
 
 Option 3:
 1/2" EMT Horizontals & 4x 1/2" EMT Verticals on each column.
-(This is the build I am doing)
+(This is the build I am doing & this has the most current changes)
 
 Option 4:
 1/2" PVC Horizontals & 4x 1/2" EMT Verticals on each column.
 
 Option 5:
-1/2" PVC Horizontals & 4x 1/2" PVC Verticals on each colum.
+1/2" PVC Horizontals & 4x 1/2" PVC Verticals on each column.
 (I have not uploaded the vertex files for this yet)
