@@ -24,6 +24,7 @@ https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-1.html
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-2.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-3.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-4.html
+https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-5.html
 
 Option 3:
 1/2" EMT Horizontals & 4x 1/2" EMT Verticals on each column.
