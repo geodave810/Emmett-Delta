@@ -5,5 +5,6 @@ https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-1.html
 https://cobaltgriffonary.blogspot.ca/2016/10/project-proteus-delta-part-2.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-3.html
 https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-4.html
+https://cobaltgriffonary.blogspot.ca/2016/11/project-proteus-delta-part-5.html
 
 I have also included Cobalt Griffonary's basic BOM list in this for this configuration in this folder
