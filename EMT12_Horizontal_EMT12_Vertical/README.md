@@ -1,4 +1,5 @@
 Update Info 5/21/2017
+
 The build I am planning should have a build diameter of 200mm x 590mm height.  I am currently redoing the vertex parts for this version & printing them this week.
 
 EMT Cut Lengths:
