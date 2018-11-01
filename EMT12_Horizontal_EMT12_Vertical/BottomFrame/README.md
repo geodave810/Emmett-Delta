@@ -6,7 +6,7 @@ This will save you from having to drill holes thru the horizontal 1/2" EMT.
 The openscad source file references Vertex_2x_EM12TH_4xEMT12V_rev100.stl
 
 Before printing any of these parts, I would recommend printing the file:
-BottomDoveTailFrame_Test_Rev28.stl first.
+BottomDoveTailFrame_Test_Rev30.stl first.
 This should give you a good indication of the fit of the dovetails & screw holes.
 
 The holes are sized for M4 or #8 screws on the dovetail vertex mounting holes
